@@ -1,7 +1,6 @@
 <?php
 
-// Traccia 2 
-
+// Esercizio 2
 class Vertebrates {
         protected static function vert(){
             echo "Sono un animale Vertebrato" . "\n";
